@@ -6,13 +6,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ExampleProjectApplication {
 	public static void main(String[] args) {
-	
+	char c= 'a';
 	int x=100;
 	int y=200;
-	boolean b =true;
-	float f=19.48f;
-	double d=10.12;
-	boolean b =false;
+	float f=10.10f;
+		
 
    SpringApplication.run(ExampleProjectApplication.class, args);
 	}
