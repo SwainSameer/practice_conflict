@@ -9,6 +9,8 @@ public class ExampleProjectApplication {
 	
 	int x=100;
 	int y=200;
+	boolean b =true;
+	float f=19.48f;
 	double d=10.12;
 	boolean b =false;
 
