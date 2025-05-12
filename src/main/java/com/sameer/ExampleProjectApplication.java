@@ -5,14 +5,14 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class ExampleProjectApplication {
-
 	public static void main(String[] args) {
 	
 	int x=100;
 	int y=200;
 	double d=10.12;
-	boolean b=false;
-		SpringApplication.run(ExampleProjectApplication.class, args);
+	boolean b =false;
+
+   SpringApplication.run(ExampleProjectApplication.class, args);
 	}
 
 }
