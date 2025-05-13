@@ -10,7 +10,8 @@ public class ExampleProjectApplication {
 	int x=100;
 	int y=200;
 	float f=10.10f;
-		
+	boolean b =true;
+	
 
    SpringApplication.run(ExampleProjectApplication.class, args);
 	}
